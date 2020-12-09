@@ -1,0 +1,15 @@
+{
+  "name": "test_pdf",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lorenzo Ponticelli aka Lorezz <point.point@gmail.com> (https://lorezz.me/)",
+  "license": "WTFPL",
+  "dependencies": {
+    "puppeteer": "^4.0.0"
+  }
+}
